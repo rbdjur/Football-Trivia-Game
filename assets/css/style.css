@@ -1,0 +1,26 @@
+.row {
+    border: 2px solid red;
+}
+
+.navbar-text_navbar-right, #Theme {
+    text-align: center;
+    color: pink;
+    font-size:20px;
+}
+
+#Timer {
+    text-align: center;
+    color: green;
+}
+
+#StartButton { 
+    text-align: center;
+    height:50px;
+    width:75px;
+    color: green;
+}
+
+#okay {
+    text-align: center;
+    color: green;
+}
