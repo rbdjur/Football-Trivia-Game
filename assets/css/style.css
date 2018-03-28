@@ -1,26 +1,27 @@
-.row {
-    border: 2px solid red;
+.Questions {
+    border: 2px solid blue;
+    height:120px;
 }
 
 .navbar-text_navbar-right, #Theme {
     text-align: center;
-    color: pink;
+    color:gold;
     font-size:20px;
 }
 
 #Timer {
     text-align: center;
-    color: green;
+    color:gold;
 }
 
 #StartButton { 
     text-align: center;
     height:50px;
     width:75px;
-    color: green;
+    color:blue;
 }
 
 #okay {
     text-align: center;
-    color: green;
+    color:blue;
 }
